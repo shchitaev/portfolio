@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kirill Shchitaev",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://avatars0.githubusercontent.com/u/67977498?s=400&u=d864600415648f593b4f312dcd0a57cf449cc64d&v=4",
+    "email": "shchitaev@ya.ru",
+    "website": "https://shchitaev.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
